@@ -180,7 +180,6 @@ pacstrap -K /mnt \
     nvidia nvidia-utils nvidia-settings \
     networkmanager vim sudo \
     dosfstools efibootmgr \
-    systemd-resolved systemd-timesyncd \
     apparmor
 
 # ---------- 16. fstab ----------
